@@ -34,7 +34,7 @@
                            (< bmi 30) ["orange" "overweight"]
                            :else ["red" "obese"])]
     [:div
-     [:h3 "BMI calculator"]
+     [:h3 "BMI calculator by jc"]
      [:div
       "Height: " (int height) "cm"
       [slider :height height 100 220 :bmi]]
