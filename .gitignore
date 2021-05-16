@@ -56,5 +56,6 @@ pom.xml.asc
 .cpcache/
 .calva/
 .shadow-cljs
+.lsp/
 
 # End of https://www.toptal.com/developers/gitignore/api/clojure
